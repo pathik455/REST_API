@@ -1,0 +1,54 @@
+[
+  {
+    "name": "John Doe",
+    "age": 25,
+    "email": "johndoe@example.com",
+    "password" : "PKAK",
+    "password1" : "PKAK"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 30,
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Michael Johnson",
+    "age": 35,
+    "email": "michaeljohnson@example.com"
+  },
+  {
+    "name": "Emily Brown",
+    "age": 28,
+    "email": "emilybrown@example.com"
+  },
+  {
+    "name": "Daniel Davis",
+    "age": 32,
+    "email": "danieldavis@example.com"
+  },
+  {
+    "name": "Olivia Wilson",
+    "age": 27,
+    "email": "oliviawilson@example.com"
+  },
+  {
+    "name": "William Taylor",
+    "age": 31,
+    "email": "williamtaylor@example.com"
+  },
+  {
+    "name": "Sophia Anderson",
+    "age": 29,
+    "email": "sophiaanderson@example.com"
+  },
+  {
+    "name": "James Martinez",
+    "age": 33,
+    "email": "jamesmartinez@example.com"
+  },
+  {
+    "name": "Ava Robinson",
+    "age": 26,
+    "email": "avarobinson@example.com"
+  }
+]
